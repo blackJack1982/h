@@ -30,3 +30,8 @@ print(line)
 # Change YOUR_WEB_URL to the URL of a website or service that you own
 
 # IMPORTANT: Do not try this locally, as it will print your local environment variables and try to send them to the Internet
+
+# Potential remediation: - malware protection, - regular patching, 
+# - network monitoring (monitor your fridge if it has WiFi;)), - asset management (monitoring authorization, connection within ethernet etc.), 
+# - access point protection (physical, information security, following protocols)
+# Defense: firewalls (filter traffic(removing/preventing) and address filtering); request throttling; multi-factor authentification.
