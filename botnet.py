@@ -35,3 +35,5 @@ print(line)
 # - network monitoring (monitor your fridge if it has WiFi;)), - asset management (monitoring authorization, connection within ethernet etc.), 
 # - access point protection (physical, information security, following protocols)
 # Defense: firewalls (filter traffic(removing/preventing) and address filtering); request throttling; multi-factor authentification.
+
+# To sum up, botnets are often used for DDos attacks, "zombie" computers infected with malware, a form of cybersecurity vulnerability.
