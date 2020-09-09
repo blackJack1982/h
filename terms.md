@@ -1,5 +1,7 @@
 Footprinting
+
 DoS (just you)
+
 DDos (multiple people)
 FUD (anti-virus can not detect)
 RAT (malware program that creates a virtual back door on the system)
